@@ -1,4 +1,4 @@
-sl.B3uLdS16NFc_0-CyntHhEgv2_5u-XZWnPeYiQyn3qneg4d8aishaEw4JcyTzSsjZSJ95SycaP611_73pA4Ym1xd-LxuhMNT9F2ceAFEctHD93Ef3xV5krn02SEMM-NttKug6aC1MGsni¿# Versiones disponibles
+# Versiones disponibles
 # forge, mohist, fabric, vanilla, paper
 
 # Puedes instalar mohist después de instalar forge desde el menú de gestionar
